@@ -1,0 +1,22 @@
+.btn {
+	margin: 10px;
+}
+
+.cen {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.calculator {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.jumbotron {
+	margin: 10%;
+	min-height: 130px;
+}
+
+footer {
+	height: 100px;
+}
